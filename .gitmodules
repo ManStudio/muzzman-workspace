@@ -1,0 +1,12 @@
+[submodule "muzzman-lib"]
+	path = muzzman-lib
+	url = https://github.com/ManStudio/MuzzMan-Lib
+[submodule "modules/transport"]
+	path = modules/transport
+	url = https://github.com/ManStudio/MuzzMan-transport
+[submodule "modules/http"]
+	path = modules/http
+	url = https://github.com/ManStudio/MuzzMan-http
+[submodule "muzzman-egui"]
+	path = muzzman-egui
+	url = https://github.com/ManStudio/muzzman-egui
